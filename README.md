@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I’m Fernando 👋
 
-<!--
-**Nando3777/Nando3777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m the Founder & Director of Wemoveon Ltd, currently building **Keruja** — an AI-enabled, multi-tenant SaaS platform for event workforce management.
 
-Here are some ideas to get you started:
+Keruja is designed for caterers, staffing agencies, event teams, clients and staff, bringing together scheduling, staffing, recruitment, compliance, time tracking, approvals, billing workflows and operational automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m building
+
+**Keruja** includes:
+
+- Multi-tenant SaaS architecture
+- Agency/operator portal
+- Staff portal
+- Client portal
+- Platform admin portal
+- Scheduling and staffing workflows
+- Recruitment and applicant tracking
+- Time tracking, approvals and payroll workflows
+- Compliance and contract workflows
+- AI-assisted operational tools
+
+## Tech stack I work with
+
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** NestJS, Node.js, REST APIs, WebSockets
+- **Database:** PostgreSQL, Prisma, Neon
+- **Infrastructure:** Vercel, Railway, GitHub Actions, Cloudflare R2, Redis
+- **AI:** OpenAI integration, AI-assisted workflows, operational automation
+- **Product:** SaaS architecture, RBAC, multi-tenant systems, workflow automation
+
+## Current focus
+
+I’m focused on building practical AI-enabled software for real business operations — especially in event staffing, workforce management, scheduling, compliance and automation.
+
+GitHub: **Nando3777**  
+Website: **https://keruja.com**
