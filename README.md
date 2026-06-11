@@ -1,6 +1,6 @@
 # Hi, I’m Fernando 👋
 
-I’m the Founder & Director of Wemoveon Ltd, currently building **Keruja** — an AI-enabled, multi-tenant SaaS platform for event workforce management.
+I’m the Founder & Director of **Wemoveon Ltd**, currently building **Keruja** — an AI-enabled, multi-tenant SaaS platform for event workforce management.
 
 Keruja is designed for caterers, staffing agencies, event teams, clients and staff, bringing together scheduling, staffing, recruitment, compliance, time tracking, approvals, billing workflows and operational automation.
 
@@ -17,6 +17,7 @@ Keruja is designed for caterers, staffing agencies, event teams, clients and sta
 - Recruitment and applicant tracking
 - Time tracking, approvals and payroll workflows
 - Compliance and contract workflows
+- Billing and operational automation
 - AI-assisted operational tools
 
 ## Tech stack I work with
@@ -28,9 +29,13 @@ Keruja is designed for caterers, staffing agencies, event teams, clients and sta
 - **AI:** OpenAI integration, AI-assisted workflows, operational automation
 - **Product:** SaaS architecture, RBAC, multi-tenant systems, workflow automation
 
+## What this profile shows
+
+This GitHub profile reflects my active work building a real SaaS product from the ground up — covering product thinking, architecture, frontend, backend, database design, integrations, automation, AI-assisted features, testing and deployment.
+
 ## Current focus
 
-I’m focused on building practical AI-enabled software for real business operations — especially in event staffing, workforce management, scheduling, compliance and automation.
+I’m focused on building practical AI-enabled software for real business operations, especially in event staffing, workforce management, scheduling, compliance and automation.
 
-GitHub: **Nando3777**  
-Website: **https://keruja.com**
+- **Keruja:** https://keruja.com
+- **LinkedIn:** https://www.linkedin.com/in/fernando-lora-mesquita-447602239/
