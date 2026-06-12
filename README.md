@@ -20,7 +20,7 @@ Keruja is designed for caterers, staffing agencies, event teams, clients and sta
 - Billing and operational automation
 - AI-assisted operational tools
 
-## ## Why I’m building Keruja
+## Why I’m building Keruja
 
 I came to London in 2009 with, starting from the very bottom — working in restaurants, then on a construction site, before finding my way into catering operations. Over time, I moved through different roles: prepping jobs, driving vans, waiting, bartending and eventually managing events.
 
