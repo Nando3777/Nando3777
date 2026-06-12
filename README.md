@@ -49,4 +49,4 @@ With AI now becoming practical for real workflows, Keruja is also exploring how 
 I’m focused on building practical AI-enabled software for real business operations, especially in event staffing, workforce management, scheduling, compliance and automation.
 
 - **Keruja:** https://keruja.com
-- **LinkedIn:** https://www.linkedin.com/in/fernando-lora-mesquita-447602239/
+- **LinkedIn:** https://www.linkedin.com/in/FLM85
