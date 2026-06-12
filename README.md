@@ -29,6 +29,9 @@ Keruja is designed for caterers, staffing agencies, event teams, clients and sta
 - **AI:** OpenAI integration, AI-assisted workflows, operational automation
 - **Product:** SaaS architecture, RBAC, multi-tenant systems, workflow automation
 
+- <img width="1672" height="941" alt="Keruja Tech Stack" src="https://github.com/user-attachments/assets/ef8fe1f6-6e52-4d2e-a414-093d8acf93ab" />
+
+
 ## What this profile shows
 
 This GitHub profile reflects my active work building a real SaaS product from the ground up — covering product thinking, architecture, frontend, backend, database design, integrations, automation, AI-assisted features, testing and deployment.
