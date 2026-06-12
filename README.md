@@ -22,6 +22,9 @@ Keruja is designed for caterers, staffing agencies, event teams, clients and sta
 
 ## ## Why I’m building Keruja
 
+I came to London in 2009 with, starting from the very bottom — working in restaurants, then on a construction site, before finding my way into catering operations. Over time, I moved through different roles: prepping jobs, driving vans, waiting, bartending and eventually managing events.
+
+Those years gave me a first-hand understanding of how much pressure event and staffing managers deal with every day: last-minute changes, availability issues, timesheets, payroll, communication, compliance and constant admin.
 After founding Wemoveon Ltd in 2016 and later returning to the events industry as a staffing manager, I started looking for software that could properly support caterers and event staffing teams. Most tools were either too expensive, too generic, or not built around the real day-to-day problems of event operations.
 
 Keruja grew from the combination of my two biggest passions: software and catering. After years inside event operations, I realised I could use technology to build the kind of tool I always wished existed.
