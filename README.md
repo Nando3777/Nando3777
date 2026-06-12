@@ -20,17 +20,6 @@ Keruja is designed for caterers, staffing agencies, event teams, clients and sta
 - Billing and operational automation
 - AI-assisted operational tools
 
-## Tech stack I work with
-
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-- **Backend:** NestJS, Node.js, REST APIs, WebSockets
-- **Database:** PostgreSQL, Prisma, Neon
-- **Infrastructure:** Vercel, Railway, GitHub Actions, Cloudflare R2, Redis
-- **AI:** OpenAI integration, AI-assisted workflows, operational automation
-- **Product:** SaaS architecture, RBAC, multi-tenant systems, workflow automation
-
-<img width="1672" height="941" alt="Keruja Tech Stack" src="https://github.com/user-attachments/assets/ef8fe1f6-6e52-4d2e-a414-093d8acf93ab" />
-
 ## My journey into software did not start in a traditional way.
 
 I came to London in 2009, worked in restaurants, construction, catering operations, driving, waiting, bartending and eventually managing events. Over the years, I saw first-hand how much pressure staffing managers face: last-minute changes, availability issues, timesheets, payroll, communication, compliance and constant admin.
@@ -42,6 +31,17 @@ Keruja started from that frustration.
 I’m building software to solve the problems I deal with myself: improving productivity, reducing mistakes, giving better visibility, and helping event businesses manage staff, schedules, timesheets, approvals and operations with more control.
 
 With AI now becoming practical for real workflows, Keruja is also exploring how AI can assist staffing managers with operational tasks, decision support and error reduction — not as a gimmick, but as a tool for real daily work.
+
+## Tech stack I work with
+
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** NestJS, Node.js, REST APIs, WebSockets
+- **Database:** PostgreSQL, Prisma, Neon
+- **Infrastructure:** Vercel, Railway, GitHub Actions, Cloudflare R2, Redis
+- **AI:** OpenAI integration, AI-assisted workflows, operational automation
+- **Product:** SaaS architecture, RBAC, multi-tenant systems, workflow automation
+
+<img width="1672" height="941" alt="Keruja Tech Stack" src="https://github.com/user-attachments/assets/ef8fe1f6-6e52-4d2e-a414-093d8acf93ab" />
 
 ## Current focus
 
