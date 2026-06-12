@@ -31,9 +31,17 @@ Keruja is designed for caterers, staffing agencies, event teams, clients and sta
 
 <img width="1672" height="941" alt="Keruja Tech Stack" src="https://github.com/user-attachments/assets/ef8fe1f6-6e52-4d2e-a414-093d8acf93ab" />
 
-## What this profile shows
+## My journey into software did not start in a traditional way.
 
-This GitHub profile reflects my active work building a real SaaS product from the ground up — covering product thinking, architecture, frontend, backend, database design, integrations, automation, AI-assisted features, testing and deployment.
+I came to London in 2009, worked in restaurants, construction, catering operations, driving, waiting, bartending and eventually managing events. Over the years, I saw first-hand how much pressure staffing managers face: last-minute changes, availability issues, timesheets, payroll, communication, compliance and constant admin.
+
+After founding Wemoveon Ltd in 2016 and later returning to the events industry as a staffing manager, I started looking for software that could properly support caterers and event staffing teams. Most tools were either too expensive, too generic, or not built around the real day-to-day problems of event operations.
+
+Keruja started from that frustration.
+
+I’m building software to solve the problems I deal with myself: improving productivity, reducing mistakes, giving better visibility, and helping event businesses manage staff, schedules, timesheets, approvals and operations with more control.
+
+With AI now becoming practical for real workflows, Keruja is also exploring how AI can assist staffing managers with operational tasks, decision support and error reduction — not as a gimmick, but as a tool for real daily work.
 
 ## Current focus
 
